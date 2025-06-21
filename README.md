@@ -9,7 +9,7 @@ Welcome to **Flash USDT Sender Bot**, a Python-based command-line tool designed 
 
 ## 🌟 Overview
 
-The **Flash USDT Sender Bot** allows users to simulate the sending of USDT on various blockchain testnets or local development environments. It helps in verifying transaction flows, testing dApp interactions, and understanding the mechanics of token transfers in a controlled and safe setting.
+The **Flash USDT Sender Bot** allows users to simulate the sending of USDT on various blockchain testnets or local development environments. It helps in verifying transaction flows, testing dApp interactions, and understanding the mechanics of token transfers in a controlled and safe setting
 
 🧠 *“Safely test and simulate USDT transaction workflows and wallet functionalities with our reliable simulation tool — no real funds are involved.”*
 
